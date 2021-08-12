@@ -1,0 +1,1 @@
+console.log('The couple took their first movie photo in 2014 when they went to Prague and recreated a scene from the 1996 film Mission: Impossible. Since then, Lachhein and Schneider have traveled to places like Iceland, Italy, Ireland and the US to recreate scenes from movies and shows.'.length);
